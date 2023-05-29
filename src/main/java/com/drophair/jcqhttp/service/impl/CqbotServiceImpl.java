@@ -7,6 +7,6 @@ import javax.servlet.http.HttpServletRequest;
 public class CqbotServiceImpl implements ICqbotService {
     @Override
     public void cqbotEvenHandle(HttpServletRequest request) {
-        
+
     }
 }
